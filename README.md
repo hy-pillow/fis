@@ -1,3 +1,11 @@
+```
+conso
+cons
+con
+cd 
+```
+
+
 ![fis logo](https://raw.githubusercontent.com/fouber/fis-wiki-img/master/logo.png)
 
 [![NPM version](https://badge.fury.io/js/fis.png)](http://badge.fury.io/js/fis) [![Dependencies Status](https://david-dm.org/fex-team/fis.png)](https://david-dm.org/fex-team/fis)
